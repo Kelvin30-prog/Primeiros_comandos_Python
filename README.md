@@ -1,7 +1,7 @@
 # Primeiros_comandos_Python
 Colocando o python para ler e valores em variáveis
 
-# Adicionando variáveis 
+#Adicionando variáveis:
 nome = ""
 idade = ""
 nascimento = ""
@@ -11,7 +11,7 @@ renda = ""
 cpf = ""
 civil = ""
 
-#Adicionando perguntas
+#Adicionando perguntas e solicitando respostas:
 print ("Seja bem vindo ao seu app parceiro, somente aqui você terá as oportunidades que procura.")
 print ("Antes de iniciarmos, precisamos das suas informações para realizar o seu cadastro.")
 print ("Por favor, preencha os itens abaixo:")
